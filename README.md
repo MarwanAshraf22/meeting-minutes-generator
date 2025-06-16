@@ -35,7 +35,7 @@ Summary Output (Gradio Interface)
 - **Audio to Summary:** Upload meeting audio (.mp3) and get a concise summary.
 - **State-of-the-art Models:**
   - **OpenAI Whisper** for accurate audio transcription.
-  - **LLAMA (Hugging Face)** for advanced text summarization.
+  - **Llama (Hugging Face)** for advanced text summarization.
 - **Intuitive Gradio Web Interface**
 - **Google Colab with GPU Acceleration**
 - **Easy Authentication** for secure model access.
@@ -62,7 +62,7 @@ Summary Output (Gradio Interface)
 - `torch`
 - `transformers`
 - `openai` *(for Whisper)*
-- `huggingface_hub` *(for LLAMA)*
+- `huggingface_hub` *(for Llama)*
 - `google.colab`
 
 ## Configuration
@@ -93,7 +93,6 @@ Summary Output (Gradio Interface)
 ## Contributors
 
 - *Open Source Community*  
-  (Add your name if desired)
 
 ## License
 
