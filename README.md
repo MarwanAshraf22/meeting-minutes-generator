@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project provides an interactive Google Colab notebook that helps users **summarize meeting minutes** using advanced AI models. With an easy-to-use [Gradio](https://gradio.app/) interface, users can upload their meeting transcripts and receive concise summaries. The notebook supports both OpenAI and HuggingFace models and takes advantage of GPU acceleration available in Google Colab.
+This project provides an interactive Google Colab notebook that helps users **summarize meeting minutes** using advanced AI models. With an easy-to-use [Gradio](https://gradio.app/) interface, users can upload their meeting audio file and receive concise summaries. The notebook supports both OpenAI and HuggingFace models and takes advantage of GPU acceleration available in Google Colab.
 
 ## Table of Contents
 
@@ -78,7 +78,6 @@ All dependencies are installed automatically when running in Google Colab.
 ## Contributors
 
 - *Open Source Community*  
-  (Add your name or others if you wish!)
 
 ## License
 
